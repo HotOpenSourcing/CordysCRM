@@ -3,8 +3,6 @@
 ############################
 
 # Local env files
-.env
-.env.local
 .env.*.local
 .venv
 
@@ -41,7 +39,6 @@ pnpm-error.log*
 .factorypath
 
 # VS Code
-.vscode
 
 # Visual Studio
 *.suo
@@ -78,3 +75,5 @@ qywx.json
 
 # Claude Code
 .claude
+config.bat
+node_modules
